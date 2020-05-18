@@ -19,16 +19,16 @@
 #     THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
 
 # GCloud specific config
-PROJECT_ID = "iot-weather-clock"
+PROJECT_ID = "weather-clock-277417"
 IOT_CORE_REGION = "us-central1"
-IOT_CORE_REGISTRY_ID = "weather-devices"
-IOT_CORE_DEVICE_ID = "d0123f77e05e73abafe"
+IOT_CORE_REGISTRY_ID = "weather-clock-devices"
+IOT_CORE_DEVICE_ID = "d0123f77E05E73ABAFE"
 
 # Location to fetch data from. See yr.no for more information
 YR_LOCATION_URL = "https://www.yr.no/place/Norway/Tr%C3%B8ndelag/Trondheim/Trondheim/forecast.xml"
 
 # The cloud storage bucket to store the cached data. See https://console.cloud.google.com/storage for more information
-CLOUD_STORAGE_BUCKET_ID = "weather-clock-cache1"
+CLOUD_STORAGE_BUCKET_ID = "weather-clock-cache-2"
 
 # Temperature range for the clock in celsius.
 TEMP_MAX = 15
