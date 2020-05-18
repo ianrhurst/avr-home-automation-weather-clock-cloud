@@ -22,7 +22,7 @@
 PROJECT_ID = "weather-clock-277417"
 IOT_CORE_REGION = "us-central1"
 IOT_CORE_REGISTRY_ID = "weather-clock-devices"
-IOT_CORE_DEVICE_ID = "d0123f77E05E73ABAFE"
+IOT_CORE_DEVICE_ID = "d0123F77E05E73ABAFE"
 
 # Location to fetch data from. See yr.no for more information
 YR_LOCATION_URL = "https://www.yr.no/place/Norway/Tr%C3%B8ndelag/Trondheim/Trondheim/forecast.xml"
