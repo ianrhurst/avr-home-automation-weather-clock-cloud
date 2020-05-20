@@ -31,7 +31,7 @@ YR_LOCATION_URL = "https://www.yr.no/place/United_States/New_York/New_York_City/
 CLOUD_STORAGE_BUCKET_ID = "weather-clock-cache-2"
 
 # Temperature range for the clock in celsius.
-TEMP_MAX = 15
+TEMP_MAX = 25
 TEMP_MIN = -5
 
 MOTOR_STEP_ANGLE = 1.8
